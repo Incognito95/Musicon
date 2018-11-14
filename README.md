@@ -1,1 +1,11 @@
 # Musicon
+![musicon forside](https://user-images.githubusercontent.com/35996745/48506788-9207aa80-e84a-11e8-8c74-0c851b70d696.jpg)
+![musicon fremtid go-card jpg](https://user-images.githubusercontent.com/35996745/48506789-9207aa80-e84a-11e8-9aae-0392c983d1d2.jpg)
+![musicon fremtid moodboard jpg](https://user-images.githubusercontent.com/35996745/48506790-9207aa80-e84a-11e8-9c3b-7d5ae2cfa598.jpg)
+![musicon ragnarock moodboard jpg](https://user-images.githubusercontent.com/35996745/48506791-92a04100-e84a-11e8-9241-d1fe3fa277db.jpg)
+![musicon skatepark moodboard jpg](https://user-images.githubusercontent.com/35996745/48506793-92a04100-e84a-11e8-88b5-880e709bedcf.jpg)
+![musicon unge smack festival moodboard jpg](https://user-images.githubusercontent.com/35996745/48506795-92a04100-e84a-11e8-88c3-83ac3b8af559.jpg)
+![ragnarock go-card jpg](https://user-images.githubusercontent.com/35996745/48506797-92a04100-e84a-11e8-8742-221c89da2005.jpg)
+![ragnarock plakat jpg](https://user-images.githubusercontent.com/35996745/48506799-92a04100-e84a-11e8-8232-e3d6f3ca330c.jpg)
+![skatepark go-card jpg](https://user-images.githubusercontent.com/35996745/48506802-9338d780-e84a-11e8-9424-e2eace40695b.jpg)
+![smack go-card jpg](https://user-images.githubusercontent.com/35996745/48506804-9338d780-e84a-11e8-8128-d04e25110856.jpg)
